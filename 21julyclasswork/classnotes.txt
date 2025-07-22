@@ -1,0 +1,23 @@
+point- a local varible does not have any default claue so it must be inilisze before it isused
+iiiiiiiiiiiiiiiiiiiiiiiii
+
+
+- we can not dealr same varible multiple times inside same block. if it is done then it will give complition error.we can have varible with same name in diffrent block.
+- we can change or update the vaue of varible only by using varible name.
+- a local varible is visible or accesble only inside same block in which it is dealer.
+  out side the block a locak varible can not acess.
+  case-3
+
+  -- 
+  imoratn
+  a statitc varible can accesed inside same class direaclty or by using classname as reference .
+  inside another class it will acesed by class refernces.
+
+
+
+  -non static memebr of class can be aceed anywhere insdie main method by using object refernce.
+     - 
+
+
+
+

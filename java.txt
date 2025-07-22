@@ -1,0 +1,11 @@
+java 
+14 July :
+
+design a non preemptive data and class which some value for:-
+1- student
+2- vehicle
+3- mobile 
+4- product
+5- order
+
+ 
